@@ -6,7 +6,6 @@ int hieu(int a, int b);
 int main()
 {
 	int a, b;
-	char phepToan;
 	cout << "Nhap so nguyen thu 1: ";
 	cin >> a;
 	cout << "Nhap so nguyen thu 2: ";
